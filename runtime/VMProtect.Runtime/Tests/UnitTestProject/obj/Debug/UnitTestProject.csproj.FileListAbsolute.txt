@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\VMPB\runtime\VMProtect.Runtime\Tests\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VMPB\runtime\VMProtect.Runtime\Tests\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\vmprotect\runtime\VMProtect.Runtime\Tests\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\vmprotect\runtime\VMProtect.Runtime\Tests\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
