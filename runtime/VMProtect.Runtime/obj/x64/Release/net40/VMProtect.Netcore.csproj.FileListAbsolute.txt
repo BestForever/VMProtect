@@ -1,0 +1,7 @@
+D:\vmprotect\bin\64\Release\net40\VMProtect.Netcore.dll
+D:\vmprotect\bin\64\Release\net40\VMProtect.Netcore.pdb
+D:\vmprotect\runtime\VMProtect.Runtime\obj\x64\Release\net40\VMProtect.Netcore.csprojAssemblyReference.cache
+D:\vmprotect\runtime\VMProtect.Runtime\obj\x64\Release\net40\VMProtect.Netcore.csproj.CoreCompileInputs.cache
+D:\vmprotect\runtime\VMProtect.Runtime\obj\x64\Release\net40\VMProtect.Netcore.AssemblyInfo.cs
+D:\vmprotect\runtime\VMProtect.Runtime\obj\x64\Release\net40\VMProtect.Netcore.dll
+D:\vmprotect\runtime\VMProtect.Runtime\obj\x64\Release\net40\VMProtect.Netcore.pdb

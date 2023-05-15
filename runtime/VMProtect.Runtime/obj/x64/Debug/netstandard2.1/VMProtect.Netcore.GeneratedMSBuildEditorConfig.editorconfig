@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = VMProtect.Netcore
+build_property.ProjectDir = D:\vmprotect\runtime\VMProtect.Runtime\
