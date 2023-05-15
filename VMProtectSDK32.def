@@ -1,0 +1,24 @@
+LIBRARY "VMProtectSDK32.dll"
+EXPORTS
+VMProtectActivateLicense@12
+VMProtectBegin@4
+VMProtectBeginMutation@4
+VMProtectBeginUltra@4
+VMProtectBeginUltraLockByKey@4
+VMProtectBeginVirtualization@4
+VMProtectBeginVirtualizationLockByKey@4
+VMProtectDeactivateLicense@4
+VMProtectDecryptStringA@4
+VMProtectDecryptStringW@4
+VMProtectEnd@0
+VMProtectFreeString@4
+VMProtectGetCurrentHWID@8
+VMProtectGetOfflineActivationString@12
+VMProtectGetOfflineDeactivationString@12
+VMProtectGetSerialNumberData@8
+VMProtectGetSerialNumberState@0
+VMProtectIsDebuggerPresent@4
+VMProtectIsProtected@0
+VMProtectIsValidImageCRC@0
+VMProtectIsVirtualMachinePresent@0
+VMProtectSetSerialNumber@4
