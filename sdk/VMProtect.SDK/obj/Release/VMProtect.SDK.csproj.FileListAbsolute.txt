@@ -1,0 +1,5 @@
+e:\master\vmpb-bb-job1\bin\VMProtect.SDK.dll
+e:\master\vmpb-bb-job1\bin\VMProtect.SDK.pdb
+e:\master\vmpb-bb-job1\sdk\VMProtect.SDK\obj\Release\VMProtect.SDK.csprojResolveAssemblyReference.cache
+e:\master\vmpb-bb-job1\sdk\VMProtect.SDK\obj\Release\VMProtect.SDK.dll
+e:\master\vmpb-bb-job1\sdk\VMProtect.SDK\obj\Release\VMProtect.SDK.pdb
