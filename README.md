@@ -1,5 +1,5 @@
-VMProtect
----------
+VMProtect Source Code
+---------------------
 
 Building
 
@@ -8,3 +8,7 @@ Building
 
 	Windows:
 		> build.bat
+
+
+##  Disclaimer
+The source of VMProtect is availabe for educational purposes only.
