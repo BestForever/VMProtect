@@ -1,5 +1,5 @@
-VMProtect project
------------------
+VMProtect
+---------
 
 Building
 
