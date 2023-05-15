@@ -11,4 +11,4 @@ Building
 
 
 ##  Disclaimer
-The source of VMProtect is availabe for educational purposes only.
+The source code of VMProtect is availabe for educational purposes only.
