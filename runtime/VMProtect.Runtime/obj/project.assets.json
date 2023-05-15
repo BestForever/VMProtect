@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {},
+    ".NETFramework,Version=v2.0": {},
+    ".NETFramework,Version=v4.0": {},
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [],
+    ".NETFramework,Version=v2.0": [],
+    ".NETFramework,Version=v4.0": [],
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\number201724\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\vmprotect\\runtime\\VMProtect.Runtime\\VMProtect.Netcore.csproj",
+      "projectName": "VMProtect.Netcore",
+      "projectPath": "D:\\vmprotect\\runtime\\VMProtect.Runtime\\VMProtect.Netcore.csproj",
+      "packagesPath": "C:\\Users\\number201724\\.nuget\\packages\\",
+      "outputPath": "D:\\vmprotect\\runtime\\VMProtect.Runtime\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\number201724\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net20",
+        "net40",
+        "netcoreapp3.0",
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/bfVQMtD5hfqFp1wxiJNq8TU3XfdUjNiaTVkF5f9evqpaiE8vsy/api": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        },
+        "net20": {
+          "projectReferences": {}
+        },
+        "net40": {
+          "projectReferences": {}
+        },
+        "netstandard2.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {},
+      "net20": {},
+      "net40": {},
+      "netstandard2.1": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yh5AX1SsaFajd1dN9N43frXULmfmf7bVMwCDaZHPnjr17QRUmAU6hvnMNc7BAbOWbo4jkM0idSZjRYg/+SU/Mw==",
+  "success": true,
+  "projectFilePath": "D:\\vmprotect\\runtime\\VMProtect.Runtime\\VMProtect.Netcore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\number201724\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\number201724\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\number201724\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
